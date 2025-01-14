@@ -28,10 +28,9 @@ nav {
  }
  .post-text-box {
     flex: 70%;
-    padding: 20px;
+    padding: 60px;
  }
  img {
    border: 2px solid #ccc;
    border-radius: 10px;
-   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
 }
