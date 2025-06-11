@@ -28,15 +28,18 @@ nav {
     flex-wrap: wrap;
  }
  .post-text-box {
+    text-align: center;
     flex: 70%;
     padding: 60px;
  }
  img {
-   display: block;
-   margin: 0 auto;
    border: 2px solid #ccc;
    border-radius: 10px;
 }
+ .center_image {
+   display: block;
+   margin: 0 auto;
+ }
 figcaption {
     text-align: center;
     font-size: 0.9em;
