@@ -14,7 +14,7 @@ nav {
  }
  /*navigation bar button style*/
  nav a {
-    Text-align: center;
+    text-align: center;
     color: #000000;
     text-decoration: none;
     font-size: larger;
@@ -32,12 +32,13 @@ nav {
     padding: 60px;
  }
  img {
-   align-items: center;
+   display: block;
+   margin: 0 auto;
    border: 2px solid #ccc;
    border-radius: 10px;
 }
 figcaption {
-    align-items: center;
+    text-align: center;
     font-size: 0.9em;
     color: #000000;
   }
